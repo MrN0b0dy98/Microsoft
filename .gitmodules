@@ -1,0 +1,3 @@
+[submodule "Microsoft/Learn"]
+	path = Microsoft/Learn
+	url = https://github.com/MrN0b0dy98/Microsoft-Learn.git
